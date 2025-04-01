@@ -7,7 +7,7 @@ class CybersecurityChatbot
     static void Main()
     {
         // Play voice greeting
-        PlayVoiceGreeting(@"C:\Users\adivh\source\repos\Part1Prog\Part1Prog\ProgGreet.wav");
+        PlayVoiceGreeting(@"C:\Users\adivh\source\repos\ProgPart1\ProgPart1\ProgGreet.wav");
 
         // console colors
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -16,7 +16,7 @@ class CybersecurityChatbot
         // Display Ascii art
         DispAsciiArt();
 
-        // Start chatbot interaction
+        // Start chatbot interaction 
         ChatbotInteraction();
     }
 
