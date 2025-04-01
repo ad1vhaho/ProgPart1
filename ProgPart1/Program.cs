@@ -40,7 +40,7 @@ class CybersecurityChatbot
  C        R   R    Y Y    P   P    T    O   O   B    B  O   O    T    
  C        RRRR      Y     PPPP     T    O   O   BBBBB   O   O    T
  C        R  R      Y     P        T    O   O   B    B  O   O    T
-  CCCC    R   R     Y     P        T     OOO    BBBBB    OOO     T  
+  CCCC    R   R     Y     P        T     OOO    BBBBB    OOO     T   
 ";
         Console.WriteLine(asciiArt);
     }
