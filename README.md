@@ -1,4 +1,4 @@
-This C# console-based chatbot provides cybersecurity tips, featuring a voice greeting, ASCII art display, and interactive Q&A with a simulated typing effect.
+Cryptobot is a  C# console-based chatbot provides cybersecurity tips, featuring a voice greeting, ASCII art display, and interactive Q&A with a simulated typing effect.
 
 Features:
 
