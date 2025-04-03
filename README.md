@@ -29,3 +29,11 @@ Change the greeting audio file in PlayVoiceGreeting().
 Modify ASCII art in DispAsciiArt().
 
 Expand chatbot responses in GenResponse().
+
+Example Interaction
+
+👤 Enter your name: Bob
+💬 Welcome Bob! Ask me about cybersecurity.
+💡 Question: What is phishing?
+⚠️ Beware of suspicious emails and links. Never share sensitive information online!
+
