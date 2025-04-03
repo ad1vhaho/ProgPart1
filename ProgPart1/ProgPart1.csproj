@@ -51,7 +51,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <None Include=".github\workflow\main.yml" />
+    <None Include=".github\workflow\dotnet-desktop.yml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
