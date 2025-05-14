@@ -139,7 +139,7 @@ class CybersecurityChatbot
             string userInput = Console.ReadLine()?.ToLower();
             Console.ForegroundColor = ConsoleColor.Cyan;
 
-            if (string.IsNullOrWhiteSpace(userInput))
+            if (string.IsNullOrWhiteSpace(userInput)) 
             {
                 Console.WriteLine("🤖 I didn’t quite understand that. Could you please ask your question again?");
                 continue;
