@@ -161,7 +161,7 @@ class CybersecurityChatbot
             }
 
             SimulateTyping(keywordResponse);
-
+             
             if (!string.IsNullOrEmpty(favoriteTopic))
             {
                 Console.Write("\n🧠 Would you like a tip related to your interest in " + favoriteTopic + "? (yes/no): ");
