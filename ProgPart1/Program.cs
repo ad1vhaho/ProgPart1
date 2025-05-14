@@ -167,7 +167,7 @@ class CybersecurityChatbot
                 Console.Write("\n🧠 Would you like a tip related to your interest in " + favoriteTopic + "? (yes/no): ");
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 string followUp = Console.ReadLine()?.ToLower();
-                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.ForegroundColor = ConsoleColor.Cyan; 
 
                 if (followUp == "yes" || followUp == "y")
                 { 
