@@ -170,7 +170,7 @@ class CybersecurityChatbot
                 Console.ForegroundColor = ConsoleColor.Cyan;
 
                 if (followUp == "yes" || followUp == "y")
-                {
+                { 
                     ProvideFavoriteTopicTip();
                 }
             }
